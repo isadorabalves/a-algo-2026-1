@@ -52,4 +52,4 @@ for numero in valores:
    
    # Ressalta-se que, ao testar o valor n = 1000, foi necessário utilizar a biblioteca
    # sys para aumentar o limite de chamadas recursivas, uma vez que o Python possui
-   # um limite padrão para esse tipo de chamada.
+   # um limite padrão para esse tipo de chamada..
